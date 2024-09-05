@@ -32,7 +32,7 @@ A passionate Data Science enthusiast eager to contribute to solving real-world p
 - Applied **K-Means clustering** to segment customers based on purchasing patterns.
 - Visualized the clusters using **PCA** and analyzed insights.
 
-### [Project 3: Sentiment Analysis on Tweets]([https://github.com/Aniket7483/Sentiment-Analysis-on-Tweets])
+### [Project 3: Sentiment Analysis on Tweets](https://github.com/Aniket7483/Sentiment-Analysis-on-Tweets)
 - Classified tweets as positive or negative using **Naive Bayes**.
 - Performed **sentiment analysis** and visualized the results.
 
