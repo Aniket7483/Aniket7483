@@ -32,8 +32,8 @@ A passionate Data Science enthusiast eager to contribute to solving real-world p
 - Performed **sentiment analysis** and visualized the results.
 
 ## 📫 How to Reach Me
-- [LinkedIn](www.linkedin.com/in/aniket-pandit-060620239)
-- [Email](aniketpandit112@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/aniket-pandit-060620239)
+- [Email](mailto:aniketpandit112@gmail.com)
 
 
 <!--
