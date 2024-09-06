@@ -1,4 +1,7 @@
-# Hello! I'm Aniket Pandit 👋
+# Hello! I'm Aniket Pandit 👋 
+ ![image](https://github.com/user-attachments/assets/12793c3e-4b47-45dc-a79f-4262b78df467)
+
+
 A passionate Data Science enthusiast eager to contribute to solving real-world problems through data-driven insights. I have a strong foundation in statistics, machine learning, and data visualization, and I’m continuously learning new techniques and tools in the field.
 <p align="left">
 </p>
