@@ -27,15 +27,7 @@ A passionate Data Science enthusiast eager to contribute to solving real-world p
 - Working on **feature engineering and model tuning** for better performance.
 
 ## 🚀 Projects
-### [Project 1: Predicting House Prices](https://github.com/username/project1)
-- Built a model using **linear regression** to predict house prices.
-- Performed **EDA**, feature selection, and model evaluation.
-
-### [Project 2: Customer Segmentation using K-Means Clustering](https://github.com/username/project2)
-- Applied **K-Means clustering** to segment customers based on purchasing patterns.
-- Visualized the clusters using **PCA** and analyzed insights.
-
-### [Project 3: Sentiment Analysis on Tweets](https://github.com/Aniket7483/Sentiment-Analysis-on-Tweets)
+### [Project 1: Sentiment Analysis on Tweets](https://github.com/Aniket7483/Sentiment-Analysis-on-Tweets)
 - Classified tweets as positive or negative using **Naive Bayes**.
 - Performed **sentiment analysis** and visualized the results.
 
