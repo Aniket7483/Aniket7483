@@ -4,7 +4,7 @@
 
 ![Animated Banner](https://github.com/user-attachments/assets/15b1a373-47a4-4c4e-94c5-4be8f3d53b46)
 
-## 👨‍💻 Business Consultant | Aspiring Data Scientist | Tech Enthusiast  
+## 👨‍💻 Graphics Designer | Aspiring Data Scientist | Tech Enthusiast  
 
 I am a **Business Consultant** with a strong **Data Science and Machine Learning background**, passionate about building data-driven solutions and scalable digital products. I enjoy combining **analytics, development, and business understanding** to solve real-world problems effectively.
 
