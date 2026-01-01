@@ -82,7 +82,8 @@ With hands-on experience in **Python, Machine Learning, Web Development**, and *
 ## 📫 Let's Connect
 - 🔗 **LinkedIn**: https://www.linkedin.com/in/aniket-pandit-060620239  
 - 📧 **Email**: aniketpandit112@gmail.com  
-- 💻 **GitHub**: https://github.com/Aniket7483  
+- 💻 **GitHub**: https://github.com/Aniket7483
+- 🌐 **Portfolio**: https://portfolio-lemon-seven-69.vercel.app/
 
 ---
 
